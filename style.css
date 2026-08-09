@@ -82,7 +82,7 @@ nav button {
 }
 
 .separation {
-    height: 7px;
+    height: 8px;
     background-color: rgb(46, 44, 44);
     position: relative;
     z-index: 20;
